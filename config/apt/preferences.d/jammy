@@ -1,0 +1,9 @@
+Package: *
+Pin: release n=jammy
+Pin-Priority: 1
+
+
+Package: fonts-cascadia-code
+Pin: release n=jammy
+Pin-Priority: 500
+

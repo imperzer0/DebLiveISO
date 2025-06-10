@@ -1,0 +1,4 @@
+Package: *
+Pin: release n=repo
+Pin-Priority: 50
+
