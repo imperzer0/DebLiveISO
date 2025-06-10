@@ -4,8 +4,5 @@
 # Bar
 !/.gitignore
 
-!/.build/
-!/.build/**/*
-
 !/config
 !/config/**/*
