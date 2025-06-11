@@ -15,7 +15,7 @@ DirHistory[$e]=$HOME/dev/
 
 [General]
 ConfirmClosingMultipleTabs=false
-HomeUrl=/home/dima/Downloads
+HomeUrl=/root/Downloads
 RememberOpenedTabs=false
 SortingChoice=CaseInsensitiveSorting
 Version=202
