@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"C++ Completions",
+		"CMake",
+		"CMakeFormat",
+		"Debian Syntax",
+		"Dockerfile Syntax Highlighting",
+		"EasySettings",
+		"One Dark Material - Theme",
+		"Package Control",
+	],
+}

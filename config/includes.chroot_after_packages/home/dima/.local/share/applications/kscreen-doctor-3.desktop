@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=kscreen-doctor output.1.rotation.inverted
+Name=kscreen-doctor output.1.rotation.inverted
+NoDisplay=true
+StartupNotify=false
+Type=Application
+X-KDE-GlobalAccel-CommandShortcut=true

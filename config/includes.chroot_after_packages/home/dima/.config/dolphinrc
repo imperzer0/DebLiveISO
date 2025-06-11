@@ -1,0 +1,45 @@
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+ShowViewMode=false
+
+[DetailsMode]
+PreviewSize=32
+
+[ExtractDialog]
+1920x1080 screen: Height=710
+1920x1080 screen: Width=1280
+DirHistory[$e]=$HOME/dev/
+
+[General]
+ConfirmClosingMultipleTabs=false
+HomeUrl=/home/dima/Downloads
+RememberOpenedTabs=false
+SortingChoice=CaseInsensitiveSorting
+Version=202
+ViewPropsTimestamp=2024,4,27,18,23,5.908
+
+[IconsMode]
+PreviewSize=144
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=file:$HOME,file:$HOME/Downloads/CHURCH~~/.church_logo.ico
+Recent URLs[$e]=file:$HOME/MCSERVER/,file:$HOME/,file:$HOME/dev/,file:$HOME/Downloads/CHURCH~~/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1280x1024 screen: Height=469
+1280x1024 screen: Width=547
+1920x1080 screen: Height=688
+1920x1080 screen: Width=565
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,mobithumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs

@@ -3,9 +3,12 @@
 
 # Bar
 !/.gitignore
-
-!/.build/
-!/.build/**/*
+!/.directory
 
 !/config
 !/config/**/*
+
+!/*.bash
+
+!/.build/
+!/.build/config

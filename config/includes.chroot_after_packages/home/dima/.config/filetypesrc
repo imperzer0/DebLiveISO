@@ -1,0 +1,9 @@
+[EmbedSettings]
+embed-application/epub+zip=false
+embed-application/vnd.android.package-archive=false
+embed-application/vnd.debian.binary-package=false
+embed-audio/mpeg=false
+embed-image/svg+xml=false
+embed-image/x-xcf=false
+embed-text/plain=false
+embed-x-scheme-handler/http=false

@@ -1,7 +1,7 @@
 # config/binary - options for live-build(7), binary stage
 
 # Set image type
-LB_IMAGE_TYPE="iso"
+LB_IMAGE_TYPE="iso-hybrid"
 
 # Set image filesystem
 LB_BINARY_FILESYSTEM="fat32"
@@ -10,7 +10,7 @@ LB_BINARY_FILESYSTEM="fat32"
 LB_APT_INDICES="true"
 
 # Set boot parameters
-LB_BOOTAPPEND_LIVE="boot=live components quiet splash"
+LB_BOOTAPPEND_LIVE="boot=live components"
 
 # Set boot parameters
 LB_BOOTAPPEND_INSTALL=""
@@ -80,7 +80,7 @@ LB_ISO_PREPARER="live-build @LB_VERSION@; https://salsa.debian.org/live-team/liv
 LB_ISO_PUBLISHER="Dima <dmytroperets@gmail.com>"
 
 # Set iso volume (max 32 chars)
-LB_ISO_VOLUME="Debian bookworm @ISOVOLUME_TS@"
+LB_ISO_VOLUME="Deb bw @ISOVOLUME_TS@"
 
 # Set jffs2 eraseblock size
 LB_JFFS2_ERASEBLOCK=""
@@ -116,4 +116,4 @@ LB_SWAP_FILE_PATH=""
 LB_SWAP_FILE_SIZE="512"
 
 # Enable/disable UEFI secure boot support
-LB_UEFI_SECURE_BOOT="auto"
+LB_UEFI_SECURE_BOOT="enable"
