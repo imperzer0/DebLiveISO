@@ -73,6 +73,7 @@ nwipe
 openssh-client
 p7zip-full
 pciutils
+rust-all
 smartmontools
 spice-vdagent
 sublime-text
