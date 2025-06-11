@@ -9,3 +9,6 @@
 !/config/**/*
 
 !/*.bash
+
+!/.build/
+!/.build/config
