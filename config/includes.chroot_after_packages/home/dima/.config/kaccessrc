@@ -1,0 +1,5 @@
+[Bell]
+SystemBell=false
+
+[ScreenReader]
+Enabled=false

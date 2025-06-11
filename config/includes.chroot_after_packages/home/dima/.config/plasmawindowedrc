@@ -1,0 +1,19 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma.timer
+
+[Applets][3][Configuration]
+PreloadWeight=26
+geometry=0,0,415,138
+
+[Applets][3][Configuration][ConfigDialog]
+DialogHeight=570
+DialogWidth=760
+
+[Applets][3][Configuration][General]
+notificationText=Heads UP!!! Timeout
+predefinedTimers=60,120,300,600,900,1200,1500,1800,2700,3600
+running=900
+savedAt=2025,5,31,23,48,30.809
+seconds=900
+showProgressBar=true

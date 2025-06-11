@@ -1,0 +1,209 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[052a6246-e776-4659-bedc-a51451d19a52]
+Description=Window settings for org.kde.sweeper
+ignoregeometry=true
+ignoregeometryrule=3
+placementrule=2
+size=1393,869
+sizerule=3
+title=Sweeper
+types=1
+wmclass=sweeper org.kde.sweeper
+wmclasscomplete=true
+wmclassmatch=1
+
+[1]
+Description=Window settings for org.kde.sweeper
+clientmachine=localhost
+ignoregeometry=true
+ignoregeometryrule=3
+placementrule=2
+size=1393,869
+sizerule=3
+title=Sweeper
+types=1
+windowrole=MainWindow#1
+wmclass=sweeper org.kde.sweeper
+wmclasscomplete=true
+wmclassmatch=1
+
+[1f92e150-e2e9-472b-b364-8e75525694a4]
+Description=Window settings for konsole
+clientmachine=localhost
+position=810,355
+positionrule=3
+size=1110,689
+sizerule=3
+title=~ : bash — Konsole
+types=1
+windowrole=MainWindow#1
+windowrolematch=1
+wmclass=konsole
+wmclassmatch=1
+
+[2]
+Description=Window settings for sublime_text
+clientmachine=localhost
+ignoregeometry=true
+ignoregeometryrule=3
+position=810,355
+size=1365,788
+sizerule=3
+types=1
+windowrole=MainWindow#1
+wmclass=sublime_text
+wmclassmatch=1
+
+[2f32839a-24ba-4cbb-afb2-c97585fb4454]
+Description=Window settings for systemsettings
+clientmachine=localhost
+position=168,101
+positionrule=3
+size=1585,877
+sizerule=3
+title=Recent Files — System Settings
+types=1
+windowrole=MainWindow#1
+windowrolematch=1
+wmclass=systemsettings
+wmclassmatch=1
+
+[3]
+Description=Window settings for org.wireshark.Wireshark
+clientmachine=localhost
+ignoregeometry=true
+placementrule=2
+position=810,355
+size=1618,939
+sizerule=3
+title=The Wireshark Network Analyzer
+types=1
+windowrole=MainWindow#1
+wmclass=wireshark org.wireshark.Wireshark
+wmclasscomplete=true
+wmclassmatch=1
+
+[33ed971c-ed29-4952-8580-cac7faf96aa0]
+Description=Window settings for anki [Browse]
+clientmachine=localhost
+placementrule=2
+size=1532,962
+sizerule=3
+title=Browse
+titlematch=2
+types=1
+wmclass=anki
+wmclassmatch=1
+
+[3d83d48e-8dab-4061-984f-ce349b765a67]
+Description=Window settings for org.wireshark.Wireshark
+placementrule=2
+size=1618,939
+sizerule=3
+title=The Wireshark Network Analyzer
+types=1
+wmclass=wireshark org.wireshark.Wireshark
+wmclasscomplete=true
+wmclassmatch=1
+
+[4]
+Description=Window settings for gparted
+clientmachine=localhost
+ignoregeometry=true
+placementrule=2
+position=810,355
+size=1491,887
+sizerule=3
+title=/dev/nvme0n1 - GParted
+types=1
+windowrole=MainWindow#1
+wmclass=gpartedbin gparted
+wmclasscomplete=true
+wmclassmatch=1
+
+[4ed9fd77-66bd-41a5-a331-0fd5298f2285]
+Description=Window settings for sublime_text
+ignoregeometry=true
+ignoregeometryrule=3
+size=1365,788
+sizerule=3
+title=~/Documents/Configs/Live_ISO/config/rootfs/#PackageList (Live_ISO) - Sublime Text (UNREGISTERED)
+titlematch=1
+types=1
+wmclass=sublime_text
+wmclassmatch=1
+
+[5]
+Description=Window settings for anki [Browse]
+clientmachine=localhost
+ignoregeometry=true
+ignoregeometryrule=2
+placementrule=2
+position=810,355
+size=1575,912
+sizerule=3
+title=Browse
+titlematch=2
+types=1
+windowrole=MainWindow#1
+wmclass=anki
+wmclassmatch=1
+
+[5701f3ac-38de-40b8-9726-b57fa9faaec3]
+Description=Window settings for gparted
+clientmachine=localhost
+position=227,113
+positionrule=3
+size=1467,853
+sizerule=3
+title=/dev/nvme0n1 - GParted
+types=1
+wmclass=gpartedbin gparted
+wmclasscomplete=true
+wmclassmatch=1
+
+[6]
+Description=Window settings for konsole
+clientmachine=localhost
+position=810,355
+positionrule=3
+size=1110,689
+sizerule=3
+title=~ : bash — Konsole
+types=1
+windowrole=MainWindow#1
+wmclass=konsole org.kde.konsole
+wmclasscomplete=true
+wmclassmatch=1
+
+[6d8783c6-222d-4e1b-b1e0-a1539d40e2a5]
+Description=Window settings for gparted
+clientmachine=localhost
+placementrule=2
+size=1491,887
+sizerule=3
+title=/dev/nvme0n1 - GParted
+types=1
+wmclass=gpartedbin gparted
+wmclasscomplete=true
+wmclassmatch=1
+
+[7]
+Description=Window settings for systemsettings
+clientmachine=localhost
+position=168,101
+positionrule=3
+size=1585,877
+sizerule=3
+title=Recent Files — System Settings
+types=1
+windowrole=MainWindow#1
+windowrolematch=1
+wmclass=systemsettings
+wmclassmatch=1
+
+[General]
+count=7
+rules=1,2,3,4,5,6,7

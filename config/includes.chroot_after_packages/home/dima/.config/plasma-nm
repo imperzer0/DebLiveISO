@@ -1,0 +1,5 @@
+[General]
+HotspotName=dima-hotspot
+HotspotPassword=
+ManageVirtualConnections=false
+UnlockModemOnDetection=true

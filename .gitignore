@@ -3,6 +3,7 @@
 
 # Bar
 !/.gitignore
+!/.directory
 
 !/config
 !/config/**/*
