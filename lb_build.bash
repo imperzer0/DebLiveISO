@@ -23,16 +23,32 @@ if [ "$?" -ne 0 ]; then exit $?; fi
 sudo lb chroot
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Kill SDDM
-sudo arch-chroot chroot/ /bin/bash -c "apt purge -y kde-config-sddm sddm sddm-theme-breeze sddm-theme-debian-breeze"
+# Create a non-root user
+sudo arch-chroot chroot/ /bin/bash -c "useradd -mg users -G sudo -s /bin/bash dima; exit 0;"
+if [ "$?" -ne 0 ]; then exit $?; fi
+
+# # Set root password
+# sudo arch-chroot chroot/ /bin/bash -c "echo -e \"Enter New ROOT password:\n\"; passwd"
+# if [ "$?" -ne 0 ]; then exit $?; fi
+
+# Set non-root password
+sudo arch-chroot chroot/ /bin/bash -c "echo -e \"Enter New non-root password:\n\"; passwd dima"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
 # Purge Junk
-sudo arch-chroot chroot/ /bin/bash -c "apt purge -y dragonplayer drkonqi firefox-esr kaddressbook kate kcalc kdeconnect kmail konqueror kwalletmanager"
+sudo arch-chroot chroot/ /bin/bash -c "apt purge -y dragonplayer drkonqi firefox-esr kaddressbook kate kcalc kdeconnect kmail konqueror kwalletmanager akonadi-server akonadi-backend-mysql akonadi-contacts-data akonadi-mime-data akregator"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Purge stubs
+# Purge leftovers
 sudo arch-chroot chroot/ /bin/bash -c "apt autopurge -y"
+if [ "$?" -ne 0 ]; then exit $?; fi
+
+# Make sure SDDM is installed
+sudo arch-chroot chroot/ /bin/bash -c "apt install -y sddm sddm-theme-breeze sddm-theme-debian-breeze"
+if [ "$?" -ne 0 ]; then exit $?; fi
+
+# And Enabled
+sudo arch-chroot chroot/ /bin/bash -c "systemctl enable sddm"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
 

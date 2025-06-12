@@ -1,0 +1,36 @@
+[EditDialog]
+Height 1080=594
+Width 1920=647
+
+[General]
+AutoStart=true
+Backend=FileResources
+Version=3.5.4.2
+
+[MainWindow]
+1920x1080 screen: XPosition=640
+1920x1080 screen: YPosition=317
+DP-2=DP-2
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[MessageWindow]
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=71
+DP-2=DP-2
+
+[Notification Messages]
+AskAutoStart=
+ConfirmAlarmDeletion=true
+EmailQueuedNotify=false
+QuitWarn=
+
+[ShowOpts]
+EditMore=false
+
+[View]
+DateNavigatorTop=true
+ShowDateNavigator=false
+ShowResources=false

@@ -1,0 +1,8 @@
+[FileDialogSize]
+1920x1080 screen: Height=631
+1920x1080 screen: Width=980
+
+[KFileDialog Settings]
+Recent Files[$e]=localhost.sql,file:$HOME/Downloads/2023-01-01-churchfrontprague.jpg,file:$HOME/Downloads/2023-01-01-churchprague.jpg,file:$HOME/Downloads/220HymnCanvas.png,file:$HOME/Downloads/IMG_1180.jpg,file:$HOME/Downloads/McKay Font 700/McKayProldsLat-Bold.woff2,file:$HOME/Downloads/McKay Font Italic/McKayProldsLat-Italic.woff2
+Recent URLs[$e]=file:$HOME/,file:$HOME/Desktop/,file:$HOME/Downloads/,file:$HOME/Documents/,file:$HOME/Downloads/McKay Font Italic/,file:$HOME/Downloads/McKay Font 700/
+detailViewIconSize=16

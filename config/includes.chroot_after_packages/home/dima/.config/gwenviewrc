@@ -1,0 +1,63 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+SideBarPage=operations
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[KPropertiesDialog]
+1920x1080 screen: Height=513
+1920x1080 screen: Width=492
+
+[MainWindow]
+1280x1024 screen: Window-Maximized=true
+1280x1024 screen: XPosition=320
+1280x1024 screen: YPosition=289
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=640
+1920x1080 screen: YPosition=335
+3 screens: XPosition=640
+3 screens: YPosition=317
+DP-1 HDMI-1 eDP-1=HDMI-1
+HDMI-4=HDMI-4
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Phonon::AudioOutput]
+Gwenview_Volume=1
+
+[Print]
+PrintHeight=7.44
+
+[Recent Files]
+File1[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/4712180970883473048.jpg
+File10[$e]=$HOME/Pictures/20250507_153311.jpg
+File2[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/6388158348026297592.jpg
+File3[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7582726163652323760.jpg
+File4[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7139097904979197218.jpg
+File5[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250417_204419.jpg
+File6[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153010.jpg
+File7[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153310.jpg
+File8[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250510_105939.jpg
+File9[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153311.jpg
+Name1[$e]=4712180970883473048.jpg
+Name10[$e]=20250507_153311.jpg
+Name2[$e]=6388158348026297592.jpg
+Name3[$e]=7582726163652323760.jpg
+Name4[$e]=7139097904979197218.jpg
+Name5[$e]=20250417_204419.jpg
+Name6[$e]=20250507_153010.jpg
+Name7[$e]=20250507_153310.jpg
+Name8[$e]=20250510_105939.jpg
+Name9[$e]=20250507_153311.jpg
+
+[SideBar]
+InformationSplitterSizes=218,257
+IsVisible ViewMode=true
+SideBarSplitterSizes=263,1656

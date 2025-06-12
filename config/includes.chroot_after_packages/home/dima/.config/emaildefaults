@@ -1,0 +1,11 @@
+[Defaults]
+Profile=Default
+
+[PROFILE_Default]
+EmailAddress=
+EmailClient[$e]=firefox.desktop
+FullName=imper
+Organization=
+ReplyAddr=
+ServerType=
+TerminalClient=false
