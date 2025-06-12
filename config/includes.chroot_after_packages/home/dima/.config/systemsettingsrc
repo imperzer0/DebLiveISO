@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=screen_rotate.khotkeys,file:$HOME/Pictures/Temple/photo-1575914550597-50c184334c46.jpg
-Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/Temple/
+Recent Files[$e]=screen_rotate.khotkeys
+Recent URLs[$e]=file:$HOME/Downloads/
 detailViewIconSize=16
 
 [MainWindow]

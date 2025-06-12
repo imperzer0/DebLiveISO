@@ -13,7 +13,7 @@ LB_CHROOT_SQUASHFS_COMPRESSION_TYPE=""
 LB_UNION_FILESYSTEM="overlay"
 
 # Set interactive build
-LB_INTERACTIVE=""
+LB_INTERACTIVE="shell"
 
 # Set keyring packages
 LB_KEYRING_PACKAGES="debian-archive-keyring"
