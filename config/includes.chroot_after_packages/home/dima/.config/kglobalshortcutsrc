@@ -24,6 +24,10 @@ open-profile-manager=none,none,Open Profile Manager
 _k_friendly_name=CLion 2024.1.1
 _launch=Meta+C,none,CLion 2024.1.1
 
+[jetbrains-rustrover-a730f7f0-ce80-4d0d-b6e3-4827d3c970de.desktop]
+_k_friendly_name=RustRover 2025.1.3
+_launch=Meta+R,none,RustRover 2025.1.3
+
 [jetbrains-studio-c7641d57-8243-4d27-9a8a-70946da92877.desktop]
 _k_friendly_name=Android Studio Hedgehog 2023.1.1 Patch 2
 _launch=Meta+A,none,Android Studio Hedgehog 2023.1.1 Patch 2
@@ -260,11 +264,11 @@ view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [mediacontrol]
 _k_friendly_name=Media Controller
-mediavolumedown=none,,Media volume down
-mediavolumeup=none,,Media volume up
+mediavolumedown=none,none,Media volume down
+mediavolumeup=none,none,Media volume up
 nextmedia=Media Next,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,,Play media playback
+playmedia=none,none,Play media playback
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback

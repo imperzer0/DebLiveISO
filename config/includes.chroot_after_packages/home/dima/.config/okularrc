@@ -1,0 +1,46 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+1280x1024 screen: Window-Maximized=true
+1280x1024 screen: XPosition=213
+1280x1024 screen: YPosition=188
+1920x1080 screen: Height=973
+1920x1080 screen: Width=1388
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=71
+2 screens: XPosition=384
+2 screens: YPosition=207
+3 screens: Window-Maximized=true
+3 screens: XPosition=384
+3 screens: YPosition=207
+DP-1 HDMI-1=HDMI-1
+DP-1 HDMI-1 eDP-1=HDMI-1
+DP-2=DP-2
+HDMI-1=HDMI-1
+HDMI-4=HDMI-4
+State=AAAA/wAAAAD9AAAAAAAABWwAAANLAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/glinka-2pieces.pdf
+File10[$e]=$HOME/Downloads/JSAC2025_2_9_kamekawa_sasada_niwa_en.pdf
+File2[$e]=$HOME/Downloads/monti-chardash-noty-dlya-akkordeona.pdf
+File3[$e]=$HOME/Documents/PDF/Financial_Orientation__sing_non-Linux-generated_files-job_90.pdf
+File4[$e]=$HOME/Downloads/Surrounded by Idiots PDF.pdf
+File5[$e]=$HOME/Downloads/Preview-Surrounded-by-Idiots-by-Thomas-Erikson.pdf
+File6[$e]=$HOME/Downloads/Surrounded by Idiots.pdf
+File7[$e]=/mnt/arch/home/imper/documents/books/ati12052021_1.pdf
+File8[$e]=$HOME/Downloads/Software Design Patterns.pdf
+File9[$e]=$HOME/Downloads/wirelessconfig-h1-en.pdf
+Name1[$e]=glinka-2pieces.pdf
+Name10[$e]=JSAC2025_2_9_kamekawa_sasada_niwa_en.pdf
+Name2[$e]=monti-chardash-noty-dlya-akkordeona.pdf
+Name3[$e]=Financial_Orientation__sing_non-Linux-generated_files-job_90.pdf
+Name4[$e]=Surrounded by Idiots PDF.pdf
+Name5[$e]=Preview-Surrounded-by-Idiots-by-Thomas-Erikson.pdf
+Name6[$e]=Surrounded by Idiots.pdf
+Name7[$e]=ati12052021_1.pdf
+Name8[$e]=Software Design Patterns.pdf
+Name9[$e]=wirelessconfig-h1-en.pdf

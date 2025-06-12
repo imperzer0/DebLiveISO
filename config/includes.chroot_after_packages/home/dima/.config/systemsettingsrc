@@ -1,4 +1,6 @@
 [KFileDialog Settings]
+Recent Files[$e]=screen_rotate.khotkeys,file:$HOME/Pictures/Temple/photo-1575914550597-50c184334c46.jpg
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Pictures/Temple/
 detailViewIconSize=16
 
 [MainWindow]
@@ -15,7 +17,7 @@ detailViewIconSize=16
 1600x900 screen: Width=1224
 1600x900 screen: XPosition=168
 1600x900 screen: YPosition=138
-1920x1080 screen: Height=840
+1920x1080 screen: Height=846
 1920x1080 screen: Width=1698
 1920x1080 screen: XPosition=168
 1920x1080 screen: YPosition=138
@@ -38,6 +40,6 @@ HDMI-2 HDMI-4=HDMI-4
 HDMI-4=HDMI-4
 LVDS-1=LVDS-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABqIAAANIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAABqIAAANOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1

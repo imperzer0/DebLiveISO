@@ -24,7 +24,6 @@ TapToClick=true
 
 [Mouse]
 X11LibInputXAccelProfileFlat=false
-cursorTheme=Adwaita
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Install SUDO
-apt install sudo
+sudo apt install sudo
 
-### Configure APT ###
+### Configure APT ###  <-- sometimes breaks the system, so commented out
 
 # # Mozilla
 # sudo install -d -m 0755 /etc/apt/keyrings
@@ -24,7 +24,7 @@ apt install sudo
 sudo apt update -y && sudo apt upgrade -y
 
 ### Install Package List ###
-apt install $(cat <<EOF
+sudo apt install $(cat <<EOF
 util-linux bash-completion vim gpg wget git curl arch-install-scripts
 coreutils htop nmap nmap-common ncat openssh-client
 cmake g++ gcc

@@ -1,0 +1,13 @@
+[General]
+Default Identity=2051977055
+
+[Identity #0]
+Default Domain=imperdeb
+Disable Fcc=false
+Identity=imper
+Image Location=
+Inline Signature=
+Name=imper
+Override Encryption Defaults=false
+Signature Enabled=false
+uoid=2051977055

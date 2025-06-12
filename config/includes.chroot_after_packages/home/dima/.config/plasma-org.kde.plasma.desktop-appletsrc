@@ -27,11 +27,15 @@ DialogWidth=805
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=282
 ToolBoxButtonY=34
-positions={}
+positions={"1920x1080":["7"\\,"15"\\,"desktop:/GoogleDrivePermissions.desktop"\\,"6"\\,"14"]\\,"1080x1920":[""]\\,"1280x1024":["1"\\,"11"\\,"desktop:/youtube shorts article.md"\\,"0"\\,"5"\\,"desktop:/MissionMap.xcf"\\,"0"\\,"4"\\,"desktop:/MissionMap-Mics-current.png"\\,"0"\\,"3"\\,"desktop:/MissionMap-Mics-current-moves.png"\\,"0"\\,"2"\\,"desktop:/MissionMap-ColorCode.txt"\\,"0"\\,"1"\\,"desktop:/GoogleDrivePermissions.desktop"\\,"0"\\,"0"]\\,"1600x900":["1"\\,"14"\\,"desktop:/GoogleDrivePermissions.desktop"\\,"0"\\,"0"\\,"desktop:/MissionMap-ColorCode.txt"\\,"0"\\,"1"\\,"desktop:/MissionMap-Mics-current-moves.png"\\,"0"\\,"2"\\,"desktop:/MissionMap-Mics-current.png"\\,"0"\\,"3"\\,"desktop:/MissionMap.xcf"\\,"0"\\,"4"\\,"desktop:/youtube shorts article.md"\\,"0"\\,"5"]\\,"1536x864":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.color][General]
 Color=0,0,0
+
+[Containments][1][Wallpaper][org.kde.image][General]
+Image=/home/dima/Pictures/Temple/Helena-Temple---Exterior-Rendering-APPROVED.jpg
+SlidePaths=/usr/share/wallpapers/
 
 [Containments][2]
 activityId=
@@ -150,6 +154,10 @@ wallpaperplugin=org.kde.image
 DialogHeight=570
 DialogWidth=760
 
+[Containments][28][Wallpaper][org.kde.image][General]
+Image=/home/dima/Pictures/Temple/Helena-Temple---Exterior-Rendering-APPROVED.jpg
+SlidePaths=/usr/share/wallpapers/
+
 [Containments][29]
 activityId=1e51aabd-0997-420a-b771-abc64b73b243
 formfactor=0
@@ -162,6 +170,10 @@ wallpaperplugin=org.kde.image
 [Containments][29][ConfigDialog]
 DialogHeight=570
 DialogWidth=760
+
+[Containments][29][Wallpaper][org.kde.image][General]
+Image=/home/dima/Pictures/Temple/Helena-Temple---Exterior-Rendering-APPROVED.jpg
+SlidePaths=/usr/share/wallpapers/
 
 [Containments][30]
 activityId=
@@ -222,7 +234,7 @@ immutability=1
 plugin=org.kde.kscreen
 
 [Containments][8][Applets][11][Configuration]
-PreloadWeight=75
+PreloadWeight=80
 
 [Containments][8][Applets][12]
 immutability=1
@@ -334,4 +346,4 @@ showAllItems=true
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=
+screenMapping=desktop:/youtube shorts article.txt,0,1e51aabd-0997-420a-b771-abc64b73b243,desktop:/GoogleDrivePermissions.desktop,0,1e51aabd-0997-420a-b771-abc64b73b243
