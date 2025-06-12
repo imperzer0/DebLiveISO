@@ -31,16 +31,16 @@ if [ "$?" -ne 0 ]; then exit $?; fi
 sudo arch-chroot chroot/ /bin/bash -c "echo -e \"Enter New non-root password:\n\"; passwd dima"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Purge Junk
-sudo arch-chroot chroot/ /bin/bash -c "apt purge -y dragonplayer firefox-esr kaddressbook kate kwalletmanager"
+# Purge firefox-esr
+sudo arch-chroot chroot/ /bin/bash -c "apt purge -y firefox-esr"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
 # Purge leftovers
 sudo arch-chroot chroot/ /bin/bash -c "apt autopurge -y"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Purge SDDM - too heavy
-sudo arch-chroot chroot/ /bin/bash -c "apt purge -y sddm sddm-theme-breeze sddm-theme-debian-breeze"
+# Quick lil peek...
+sudo arch-chroot chroot/ /bin/bash
 if [ "$?" -ne 0 ]; then exit $?; fi
 
 
