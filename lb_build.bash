@@ -27,6 +27,14 @@ if [ "$?" -ne 0 ]; then exit $?; fi
 sudo arch-chroot chroot/ /bin/bash -c "apt purge -y kde-config-sddm sddm sddm-theme-breeze sddm-theme-debian-breeze"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
+# Purge Junk
+sudo arch-chroot chroot/ /bin/bash -c "apt purge -y dragonplayer drkonqi firefox-esr kaddressbook kate kcalc kdeconnect kmail konqueror kwalletmanager"
+if [ "$?" -ne 0 ]; then exit $?; fi
+
+# Purge stubs
+sudo arch-chroot chroot/ /bin/bash -c "apt autopurge -y"
+if [ "$?" -ne 0 ]; then exit $?; fi
+
 
 ### STEP 4 ###
 sudo lb binary

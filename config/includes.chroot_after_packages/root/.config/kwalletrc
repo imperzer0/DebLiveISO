@@ -1,0 +1,14 @@
+[Wallet]
+Close When Idle=true
+Close on Screensaver=true
+Default Wallet=kdewallet
+Enabled=false
+Idle Timeout=1
+Launch Manager=false
+Leave Manager Open=false
+Leave Open=true
+Prompt on Open=false
+Use One Wallet=false
+
+[org.freedesktop.secrets]
+apiEnabled=false
