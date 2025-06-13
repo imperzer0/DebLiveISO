@@ -15,13 +15,16 @@ DirHistory[$e]=$HOME/dev/
 
 [General]
 ConfirmClosingMultipleTabs=false
-HomeUrl=$HOME/Downloads
+HomeUrl=/
 RememberOpenedTabs=false
+ShowFullPath=true
+ShowFullPathInTitlebar=true
 SortingChoice=CaseInsensitiveSorting
 Version=202
 ViewPropsTimestamp=2024,4,27,18,23,5.908
 
 [IconsMode]
+IconSize=22
 PreviewSize=144
 
 [KFileDialog Settings]
@@ -34,7 +37,7 @@ detailViewIconSize=16
 [KPropertiesDialog]
 1280x1024 screen: Height=469
 1280x1024 screen: Width=547
-1920x1080 screen: Height=688
+1920x1080 screen: Height=532
 1920x1080 screen: Width=565
 
 [MainWindow]
@@ -45,4 +48,4 @@ ToolBarsMovable=Disabled
 Plugins=appimagethumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsimagethumbnail,mobithumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
 
 [Search]
-Location=Everywhere
+What=Content

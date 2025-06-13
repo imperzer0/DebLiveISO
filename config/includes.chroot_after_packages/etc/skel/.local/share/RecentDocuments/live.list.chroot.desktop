@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=live.list.chroot
+Type=Link
+URL[$e]=file:///mnt/deb/home/dima/Documents/LiveISO/config/package-lists/live.list.chroot
+X-KDE-LastOpenedWith=sublime_text

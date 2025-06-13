@@ -25,7 +25,7 @@ Places Icons Static Size=32
 DP-1 HDMI-1 eDP-1=HDMI-1
 HDMI-4=HDMI-4
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAO6AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1=eDP-1
 
@@ -36,25 +36,25 @@ Gwenview_Volume=1
 PrintHeight=7.44
 
 [Recent Files]
-File1[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/4712180970883473048.jpg
-File10[$e]=$HOME/Pictures/20250507_153311.jpg
-File2[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/6388158348026297592.jpg
-File3[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7582726163652323760.jpg
-File4[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7139097904979197218.jpg
-File5[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250417_204419.jpg
-File6[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153010.jpg
-File7[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153310.jpg
-File8[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250510_105939.jpg
-File9[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153311.jpg
-Name1[$e]=4712180970883473048.jpg
-Name10[$e]=20250507_153311.jpg
-Name2[$e]=6388158348026297592.jpg
-Name3[$e]=7582726163652323760.jpg
-Name4[$e]=7139097904979197218.jpg
-Name5[$e]=20250417_204419.jpg
-Name6[$e]=20250507_153010.jpg
-Name7[$e]=20250507_153310.jpg
-Name8[$e]=20250510_105939.jpg
+File1[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/6388158348026297592.jpg
+File10[$e]=$HOME/.local/share/plasma/look-and-feel/debian.emerald/contents/previews/splash.png
+File2[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7582726163652323760.jpg
+File3[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/Android/.Trash/com.sec.android.gallery3d/7139097904979197218.jpg
+File4[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250417_204419.jpg
+File5[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153010.jpg
+File6[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153310.jpg
+File7[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250510_105939.jpg
+File8[$e]=$HOME/Documents/Data/Samsung A12 _ with maas360 backup/INTERNAL_STORAGE/DCIM/Camera/20250507_153311.jpg
+File9[$e]=$HOME/Pictures/20250507_153311.jpg
+Name1[$e]=6388158348026297592.jpg
+Name10[$e]=splash.png
+Name2[$e]=7582726163652323760.jpg
+Name3[$e]=7139097904979197218.jpg
+Name4[$e]=20250417_204419.jpg
+Name5[$e]=20250507_153010.jpg
+Name6[$e]=20250507_153310.jpg
+Name7[$e]=20250510_105939.jpg
+Name8[$e]=20250507_153311.jpg
 Name9[$e]=20250507_153311.jpg
 
 [SideBar]

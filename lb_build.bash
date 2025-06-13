@@ -31,13 +31,13 @@ if [ "$?" -ne 0 ]; then exit $?; fi
 sudo arch-chroot chroot/ /bin/bash -c "apt autopurge -y"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Disable SDDM
-sudo arch-chroot chroot/ /bin/bash -c "systemctl disable sddm"
+# Remove Discover from autostart
+sudo arch-chroot chroot/ /bin/bash -c "rm -f /etc/xdg/autostart/org.kde.discover.notifier.desktop"
 if [ "$?" -ne 0 ]; then exit $?; fi
 
-# Quick lil peek...
-sudo arch-chroot chroot/ /bin/bash
-if [ "$?" -ne 0 ]; then exit $?; fi
+# # Quick lil peek... (only enable if not sure about the effect of your commands)
+# sudo arch-chroot chroot/ /bin/bash
+# if [ "$?" -ne 0 ]; then exit $?; fi
 
 
 ### STEP 4 ###

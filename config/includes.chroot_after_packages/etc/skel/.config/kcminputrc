@@ -6,24 +6,9 @@ NumLock=0
 RepeatDelay=300
 RepeatRate=30
 
-[Libinput][1267][11505][ELAN2514:00 04F3:2CF1]
-Enabled=true
-
-[Libinput][1267][12525][ELAN0710:00 04F3:30ED Touchpad]
-TapToClick=true
-
-[Libinput][1267][12709][ELAN0749:00 04F3:31A5 Touchpad]
-DisableWhileTyping=false
-TapToClick=true
-
-[Libinput][1267][91][Elan Touchpad]
-ClickMethod=2
-PointerAcceleration=0.200
-ScrollFactor=3
-TapToClick=true
-
 [Mouse]
 X11LibInputXAccelProfileFlat=false
+cursorTheme=Adwaita
 
 [Tmp]
 update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize

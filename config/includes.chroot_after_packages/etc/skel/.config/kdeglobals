@@ -137,11 +137,12 @@ ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
 DirSelectDialog Size=872,608
-History Items[$e]=file:$HOME/Documents/Books/Slovenská Biblia/SEB_SZ,file:$HOME/Documents/Slovenská Biblia/SEB_SZ,file:$HOME/Documents/Slovenská Biblia/SEB_SZ,file:$HOME/Downloads/%3Etorrent%3C,file:///mnt/arch/imper,file:///mnt/arch/,file:///mnt,file:$HOME/Videos/OBS,file:$HOME/Videos/OBS,file:$HOME/work,file:$HOME/Documents,file:$HOME/Documents,file:$HOME/Downloads,file:$HOME/Downloads
+History Items[$e]=file:$HOME,file:$HOME/Documents/Books/Slovenská Biblia/SEB_SZ,file:$HOME/Documents/Slovenská Biblia/SEB_SZ,file:$HOME/Documents/Slovenská Biblia/SEB_SZ,file:$HOME/Downloads/%3Etorrent%3C,file:///mnt/arch/imper,file:///mnt/arch/,file:///mnt,file:$HOME/Videos/OBS,file:$HOME/Videos/OBS,file:$HOME/work,file:$HOME/Documents,file:$HOME/Documents,file:$HOME/Downloads,file:$HOME/Downloads
 
 [General]
 AccentColor=197,0,0
 BrowserApplication=firefox.desktop
+ColorScheme=BreezeLight
 ColorSchemeHash=2ef8a9f7238e072ca91b0eb590f49ded650c76bd
 LastUsedCustomAccentColor=197,0,0
 XftSubPixel=none

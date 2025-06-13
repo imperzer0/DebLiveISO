@@ -72,6 +72,7 @@ nvme-cli
 nwipe
 openssh-client
 p7zip-full
+pavucontrol
 pciutils
 rust-all
 rust-src
