@@ -10,8 +10,8 @@ Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Switch to Next Keyboard Lay
 _k_friendly_name=Keyboard Layout Switcher
 
 [firefox-3.desktop]
-_k_friendly_name=firefox --profile "/home/dima/.mozilla/firefox/vjbi5aoh.default-release"
-_launch=Meta+M,none,firefox --profile "/home/dima/.mozilla/firefox/vjbi5aoh.default-release"
+_k_friendly_name=firefox --profile "$HOME/.mozilla/firefox/vjbi5aoh.default-release"
+_launch=Meta+M,none,firefox --profile "$HOME/.mozilla/firefox/vjbi5aoh.default-release"
 
 [firefox.desktop]
 _k_friendly_name=Firefox
@@ -181,7 +181,7 @@ Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Walk Through 
 Walk Through Windows Alternative=none,,Walk Through Windows Alternative
 Walk Through Windows Alternative (Reverse)=none,,Walk Through Windows Alternative (Reverse)
 Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
-Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application (Reverse)=Alt+$HOME,Alt+$HOME,Walk Through Windows of Current Application (Reverse)
 Walk Through Windows of Current Application Alternative=none,,Walk Through Windows of Current Application Alternative
 Walk Through Windows of Current Application Alternative (Reverse)=none,,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,,Keep Window Above Others

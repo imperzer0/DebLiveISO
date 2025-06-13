@@ -51,7 +51,7 @@
 	"theme_font_options": [],
 
 	// Characters that are considered to separate words
-	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_separators": "./\\()\"'-:,.;<>$HOME!@#$%^&*|+=[]{}`$HOME?",
 
 	// Characters that are considered to separate sub-words
 	"sub_word_separators": "_",

@@ -1,11 +1,5 @@
-[General]
-Days Meta Infos=30
-Save Meta Infos=true
-Show Full Path in Title=false
-Show Menu Bar=true
-Show Status Bar=true
-Show Tab Bar=true
-Show Url Nav Bar=false
+[KFileDialog Settings]
+detailViewIconSize=16
 
 [KTextEditor Document]
 Allow End of Line Detection=true
@@ -18,7 +12,7 @@ BOM=false
 Backup Local=false
 Backup Prefix=
 Backup Remote=false
-Backup Suffix=~
+Backup Suffix=$HOME
 Camel Cursor=true
 Encoding=UTF-8
 End of Line=0
@@ -54,7 +48,7 @@ Fallback Encoding=ISO 8859-15
 [KTextEditor Renderer]
 Animate Bracket Matching=false
 Auto Color Theme Selection=true
-Color Theme=Breeze Dark
+Color Theme=Breeze Light
 Font=Cascadia Mono PL,12,-1,5,50,0,0,0,0,0
 Line Height Multiplier=1
 Show Indentation Lines=false
@@ -120,3 +114,38 @@ Vi Relative Line Numbers=false
 Word Completion=true
 Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
+
+[KTextEditor::Search]
+Search History=launcher,laun,fabric,events
+
+[MainWindow]
+1280x1024 screen: XPosition=332
+1280x1024 screen: YPosition=263
+1920x1080 screen: Height=727
+1920x1080 screen: Width=1201
+1920x1080 screen: XPosition=233
+1920x1080 screen: YPosition=259
+DP-2=DP-2
+HDMI-1=HDMI-1
+HDMI-2=HDMI-2
+HDMI-4=HDMI-4
+State=AAAA/wAAAAD9AAAAAAAABLEAAAKoAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+eDP-1=eDP-1
+splitterSizes=800,400
+
+[Viewer]
+1280x1024 screen: Height=509
+1280x1024 screen: Width=724
+1280x1024 screen: XPosition=128
+1280x1024 screen: YPosition=130
+1920x1080 screen: Height=973
+1920x1080 screen: Width=1021
+1920x1080 screen: XPosition=0
+1920x1080 screen: YPosition=71
+DP-2=DP-2
+HDMI-4=HDMI-4
+State=AAAA/wAAAAD9AAAAAAAAA/0AAAN7AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

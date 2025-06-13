@@ -15,7 +15,7 @@ DirHistory[$e]=$HOME/dev/
 
 [General]
 ConfirmClosingMultipleTabs=false
-HomeUrl=/home/dima/Downloads
+HomeUrl=$HOME/Downloads
 RememberOpenedTabs=false
 SortingChoice=CaseInsensitiveSorting
 Version=202
@@ -27,8 +27,8 @@ PreviewSize=144
 [KFileDialog Settings]
 Places Icons Auto-resize=false
 Places Icons Static Size=22
-Recent Files[$e]=file:$HOME,file:$HOME/Downloads/CHURCH~~/.church_logo.ico
-Recent URLs[$e]=file:$HOME/MCSERVER/,file:$HOME/,file:$HOME/dev/,file:$HOME/Downloads/CHURCH~~/
+Recent Files[$e]=file:$HOME,file:$HOME/Downloads/CHURCH$HOME$HOME/.church_logo.ico
+Recent URLs[$e]=file:$HOME/MCSERVER/,file:$HOME/,file:$HOME/dev/,file:$HOME/Downloads/CHURCH$HOME$HOME/
 detailViewIconSize=16
 
 [KPropertiesDialog]
