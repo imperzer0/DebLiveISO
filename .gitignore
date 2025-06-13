@@ -4,6 +4,8 @@
 # Bar
 !/.gitignore
 !/.directory
+!/README.md
+!/LICENSE
 
 !/config
 !/config/**/*
