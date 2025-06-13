@@ -1,0 +1,46 @@
+[KFileDialog Settings]
+Recent Files[$e]=screen_rotate.khotkeys
+Recent URLs[$e]=file:$HOME/Downloads/
+detailViewIconSize=16
+
+[MainWindow]
+1080x1920 screen: Height=840
+1080x1920 screen: Width=1224
+1280x1024 screen: Height=840
+1280x1024 screen: Width=1280
+1280x1024 screen: Window-Maximized=true
+1280x1024 screen: XPosition=0
+1280x1024 screen: YPosition=138
+1536x864 screen: Height=778
+1536x864 screen: Width=1224
+1600x900 screen: Height=747
+1600x900 screen: Width=1224
+1600x900 screen: XPosition=168
+1600x900 screen: YPosition=138
+1920x1080 screen: Height=840
+1920x1080 screen: Width=1585
+1920x1080 screen: XPosition=195
+1920x1080 screen: YPosition=112
+2 screens: Height=840
+2 screens: Width=1585
+2 screens: Window-Maximized=true
+2 screens: XPosition=168
+2 screens: YPosition=138
+3 screens: Height=840
+3 screens: Width=1585
+3 screens: XPosition=168
+3 screens: YPosition=138
+DP-1 HDMI-1=HDMI-1
+DP-1 HDMI-1 eDP-1=eDP-1
+DP-2=DP-2
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=eDP-1
+HDMI-2=HDMI-2
+HDMI-2 HDMI-4=HDMI-4
+HDMI-4=HDMI-4
+LVDS-1=LVDS-1
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAABjEAAANIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

@@ -1,0 +1,5 @@
+[PlasmaRunnerManager]
+LaunchCounts=4 exec:///usr/bin/systemsettings,1 krunner_systemsettings_kcm_kded,1 krunner_systemsettings_kcm_autostart,1 exec:///usr/sbin/gparted,1 exec:///usr/bin/subl
+
+[PlasmaRunnerManager][History]
+00000000-0000-0000-0000-000000000000=sys,autos,services,subl,sett,gparted
